@@ -1,0 +1,33 @@
+#Algoritmo "matriz"
+#// Logica de programação
+#// Marcos Monteiro
+#// Descrição   :  um programa que permita o 
+# cadastro de uma Matriz e exiba a soma da diagonal 
+# principal e secundária.
+#// Autor(a)    : José Augusto
+#// Data atual  : 25/05/2022
+
+
+Var
+   a : vetor [1..2, 1..2] de inteiro
+linha, coluna : inteiro
+principal,secundaria: inteiro
+
+
+Inicio
+
+      para linha<-1 ate 2 faca
+           para coluna<-1 ate 2 faca
+               Escreva(" Digite o elemento: ")
+               leia(a[linha, coluna])
+           fimpara
+      fimpara
+      
+principal <- a[1,1] + a[2,2]
+          Escreval("A diagonal principal é : ",principal)
+
+secundaria <- a[2,1] + a[1,2]
+           escreval("A diagonal secundaria é: ",secundaria)
+
+
+Fimalgoritmo
