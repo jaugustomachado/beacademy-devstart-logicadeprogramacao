@@ -10,6 +10,9 @@ Professor: Marcos
 
 Links para os exercícios:
 
+obs: do exercício 1 ao 27 foi usado Python como linguagem de programação (formato .py),
+o último exercício foi feito no visualG em formato e postado em formato.txt
+
 ##  Link
 
 [exercicio1](https://github.com/jaugustomachado/beacademy-devstart-logicadeprogramacao/blob/main/exercicio1.py)
