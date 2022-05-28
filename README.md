@@ -11,7 +11,7 @@ Professor: Marcos
 Links para os exercícios:
 
 obs: do exercício 1 ao 27 foi usado Python como linguagem de programação (formato .py),
-o último exercício foi feito no visualG em formato e postado em formato.txt
+o último exercício foi feito no visualG e postado em formato .txt
 
 ##  Link
 
